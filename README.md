@@ -166,5 +166,5 @@ UPDATE users SET role = 'admin' WHERE email = 'your_email@example.com';
 ---
 
 <div align="center">
-  <p>Built with ❤️ by the Serendibware Team.</p>
+  <p>Built with ❤️ by the Serendibware Team.Main Developer Sudeepa Wanigarathna</p>
 </div>
